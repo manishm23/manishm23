@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manishm23
 - 👀 I’m interested in ...Game Development And All about Games
-- 🌱 I’m currently learning ...Game development And XR technolgies
+- 🌱 I’m currently learning ...Game development And XR technologies
 - 💞️ I’m looking to collaborate on ...Games
 - 📫 How to reach me ...Manish23Bk@gmail.com
 
